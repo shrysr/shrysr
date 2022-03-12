@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about : R, Python, Data Engineering, Business Analytics, Emacs! :) 
 - 📫 How to reach me: [shreyas@fastmail.com](mailto:shreyas@fastmail.com), IRC : shrysr on #shrysr or #emacs, #R
 - 😄 Pronouns: he/him/his
-- Web: https://shreyas.ragavan.co
+- 🏡 Web: https://shreyas.ragavan.co
+- ⚡ Fun fact: I'm planning to shift my repos to https://sr.ht/ though I will maintain mirrors here for the timebeing. 
